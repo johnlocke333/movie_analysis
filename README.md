@@ -58,19 +58,19 @@ The data possesses many limitations at this stage. I do not have information on 
 
 ## Recommendations
 I recommend investigating these three recommendations further as we enrich the data and become more confident in our results. 
-* 1. **Genre vs. ROI**: I assessed each genre with median ROI to show the five most highly represented genres. 
+1. **Genre vs. ROI**: I assessed each genre with median ROI to show the five most highly represented genres. 
     * Animation
     * Mystery
     * Sci-Fi
     * Adventure
     * Horror
-* 2. **Released Month vs. ROI**: I assessed each release month with median ROI to show the five most highly represented months.
+2. **Released Month vs. ROI**: I assessed each release month with median ROI to show the five most highly represented months.
     * July
     * January
     * February
     * May
     * November
-* 3. **Director vs. ROI**: I assessed each director with median ROI to show the seven most highly represented directors. 
+3. **Director vs. ROI**: I assessed each director with median ROI to show the seven most highly represented directors. 
     * David O. Russell
     * Tim Story
     * Jon M. Chu
@@ -92,7 +92,7 @@ In the next steps, I would suggest finding more information on the following:
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](notebook.ipynb) or review this [presentation](phase_2_presentation.pdf).
+See the full analysis in the [Jupyter Notebook](notebook.ipynb) or review this [presentation](movie_analysis_presentation.pdf).
 
 For additional info, contact Jack Locke at [jackdlocke@gmail.com](mailto:jackdlocke@gmail.com)
 
