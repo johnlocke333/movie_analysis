@@ -3,23 +3,23 @@
 ![film.jpg](./images/film.jpg)
 
 # Overview
-* 1. Business Understanding
-* 2. Data Understanding
-* 3. Data Preparation
+1. Business Understanding
+2. Data Understanding
+3. Data Preparation
     * a. Merging Datasets
     * b. Filtering Repeated Rows
     * c. Dropping Unnecessary Columns
     * d. Primary Columns Information
     * e. Cleaning Primary Columns
     * f. Creating Additional Columns for Analysis
-* 4. Exploratory Data Analysis
+4. Exploratory Data Analysis
     * a. Genre vs. ROI
     * b. Released Month vs. ROI
     * c. Director vs. ROI
-* 5. Conclusions
+5. Conclusions
     * a. Limitations
     * b. Recommendations
-* 6. Next Steps
+6. Next Steps
 
 # Business Understanding
 The business stakeholder is a company creating a new movie studio because they want to break into the film industry. My project analyzes films based on box office performance data. The aim is to find patterns and trends within the data in order to provide recommendations for what filmmakers should focus on when creating films for their new movie studio. I will focus on recommending what genres, release dates, and directors will best suit the stakeholder's business when compared to their respective ROIs (return on investment). The recommendations will help the business create films that will lead to profit for the company. My analysis will use the CRISP-DM (Cross-industry standard process for data mining) methodology. 
