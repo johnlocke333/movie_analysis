@@ -2,7 +2,7 @@
 
 **Author**: [Jack Locke](mailto:jackdlocke@gmail.com)
 
-![film.jpg](./images/film.jpg =250x250)
+![film.jpg](./images/film.jpg)(source **=600x400**)
 
 # Overview
 1. Business Understanding
