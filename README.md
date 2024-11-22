@@ -1,3 +1,5 @@
+# Movie Studio Data Analysis
+
 **Author**: [Jack Locke](mailto:jackdlocke@gmail.com)
 
 ![film.jpg](./images/film.jpg)
