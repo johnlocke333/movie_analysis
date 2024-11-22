@@ -43,11 +43,11 @@ The link attached will guide you to a github account containing the IMDB databas
 As mentioned in previous sections, I will explore what the stakeholders can control with my created measurement of success. I will examine which genres, months, and directors are the most highly represented. I will need additional data engineering to show my results graphically. I will view the relationships with bar graphs as this will best show us the most highly represented values. I will be looking at the median gross ROI values. Extreme outliers are present in the data, so using the mean will lead to highly skewed results. I will use the median to accurately measure the central tendency to reflect the data. 
 
 ### Genre vs. ROI
-![Screenshot 2024-11-21 at 5.19.40 PM](/images/Screenshot 2024-11-21 at 5.19.40 PM)
+![Screenshot 2024-11-21 at 5.19.40 PM](images/Screenshot 2024-11-21 at 5.19.40 PM)
 ### Month vs. ROI
-![Screenshot 2024-11-21 at 5.25.36 PM](/images/Screenshot 2024-11-21 at 5.25.36 PM)
+![Screenshot 2024-11-21 at 5.25.36 PM](images/Screenshot 2024-11-21 at 5.25.36 PM)
 ### Director vs. ROI
-![Screenshot 2024-11-21 at 5.33.55 PM](/images/Screenshot 2024-11-21 at 5.33.55 PM)
+![Screenshot 2024-11-21 at 5.33.55 PM](images/Screenshot 2024-11-21 at 5.33.55 PM)
 
 # Conclusions
 My Exploratory Data Analysis presents three business findings. The findings will help the business stakeholders figure out specific attributes of movies to help release successful films for their new studio, which, in turn, will lead to a profitable increase for their company. Given these findings and data enrichment in the future, I can build on my recommendations and know where to proceed next. 
